@@ -993,7 +993,7 @@
  .d_flex {display: flex; align-items: center; justify-content: center;}
  .text-bg h1 {
      color: #000;
-     padding-top: 50px;
+     padding-top: 90px;
      font-size: 75px;
      line-height: 94px;
     padding-bottom: 25px;
@@ -1410,7 +1410,7 @@ padding-bottom: 33px;
 }
 
 .text-img{
-     width: 700px;
+     max-width: 700px;
 }
 .text-img figure img{
      border-radius: 16px;

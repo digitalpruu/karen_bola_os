@@ -31,7 +31,7 @@
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
     .text-img{
-        width: 500px;
+        max-width: 500px;
     }
     .logo{
         width: 150px;
